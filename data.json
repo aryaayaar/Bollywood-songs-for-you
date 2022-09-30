@@ -1909,5 +1909,15 @@
    "singer": ["Arijit SIngh"],
    "genre": ["Love, Instrumental"],
    "link": "https://www.youtube.com/watch?v=4gNu8LsfYP8"
-}
+},
+{
+   "id": 214,
+   "name": "Baarishein",
+   "lyrics": "https://lyricalsansar.com/baarishein-lyrics-anuv-jain/",
+   "album": "Baarishein",
+   "Duration": "3 min 27 sec",
+   "singer": ["Anuv Jain"],
+   "genre": ["Love, Instrumental"],
+   "link": "https://youtu.be/PJWemSzExXs"
+},
 ]
